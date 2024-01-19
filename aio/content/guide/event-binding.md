@@ -20,7 +20,7 @@ See the <live-example></live-example> for a working example containing the code 
 
 <div class="alert is-helpful">
 
-For information on binding to properties, see [Event binding](guide/property-binding).
+For information on binding to properties, see [Property binding](guide/property-binding).
 
 </div>
 
